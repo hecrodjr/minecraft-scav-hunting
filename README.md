@@ -1,9 +1,6 @@
 # Minecraft Scav-Hunting Rules
 
-## Overview
-Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a hardcore-mode Minecraft world with a randomly generated seed. The scavenger hunt will run daily from **8:00 PM to 12:00 AM** for one month or until a team reaches the point target.
-
----
+Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a survival-mode Minecraft world with a randomly generated seed. The scavenger hunt will run daily from **8:00 PM to 12:00 AM** until a team reaches the point target.
 
 ## General Rules
 1. **Teams**:
@@ -21,12 +18,6 @@ Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a tot
 
 4. **Timeframe**:
    - The realm will be accessible daily from **8:00 PM to 12:00 AM** only.
-
-5. **Hardcore Mode**:
-   - Hardcore mode rules apply: **No respawns** after death. Once a player dies, they are eliminated for the rest of the event.
-   - If one player on a team dies, their teammate may continue playing solo.
-
----
 
 ## Scavenger Hunt Items
 ### Ranked Items with Point Values
@@ -55,14 +46,11 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
 | 19       | **Pigstep Music Disc**          | Very Hard      | 15              |
 | 20       | **Stack of Emerald Blocks (9)** | Very Hard      | 15              |
 
----
 
 ## Scoring Rules
 - **Point Target**: Teams must collect items worth a total of **50 points**.
 - **Item Combination**: Teams can mix and match any items from the list to reach the target.
 - **Shulker Box**: All collected items must be placed in the team’s shulker box for points to count.
-
----
 
 ## Example Winning Combinations
 1. **Exploration & Combat**:
@@ -76,8 +64,6 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
 3. **Easy Path**:
    - Cake (5), Diamond Block (5), Honey Block (5), Potion of Slow Falling (7), Wither Skeleton Skull (8), Shulker Shells (8), Totem of Undying (8).
    **Total**: 51 points.
-
----
 
 ## Additional Rules and Guidelines
 1. **Nether and End Access**:
@@ -95,15 +81,11 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
 5. **Fair Play**:
    - Cheating, hacking, or exploiting mechanics (e.g., duplication glitches) will result in immediate disqualification.
 
----
-
 ## Disqualification Criteria
 Teams will be disqualified if:
 - They intentionally kill or harm other players.
 - They use exploits, hacks, or mods for an unfair advantage.
 - They fail to adhere to the rules outlined above.
-
----
 
 ## Final Notes
 - Strategy, cooperation, and resource management will be key to victory.
