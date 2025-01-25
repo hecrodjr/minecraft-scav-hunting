@@ -25,7 +25,10 @@ Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a tot
       - iron ingots
 
 4. **Timeframe**:
-   - The realm will be accessible Monday through Thrusday from **8:00 PM to 11:59 PM** and Friday **8:00 PM** through Sunday **11:59PM** 
+   - The realm will be accessible Monday through Thrusday from **8:00 PM to 11:59 PM** and Friday **8:00 PM** through Sunday **11:59PM**
+  
+5. **Submiting Your Items**
+   -  Valid submissions of your items can only be delivered in a shukler box, so if you lose yours...it's to the End City for you.
 
 ## Scavenger Hunt Items
 ### Ranked Items with Point Values
