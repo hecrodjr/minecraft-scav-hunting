@@ -1,6 +1,6 @@
 # Minecraft Scav-Hunting Rules
 
-Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a survival-mode Minecraft world with a randomly generated seed. The scavenger hunt will run daily from **8:00 PM to 12:00 AM** until a team reaches the point target.
+Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a survival-mode Minecraft world with a randomly generated seed.
 
 ## General Rules
 1. **Teams**:
@@ -14,10 +14,18 @@ Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a tot
 
 3. **Starting Kit**:
    - Each player will receive **one shulker box** at the start of the event.
-   - All other items must be gathered in-game.
+   - The shulker box will include the following:
+      - leather armor of specific color (one item of color must be worn at all times)
+      - iron weapon and tool set
+      - beds
+      - pork chops
+      - arrows
+      - torches
+      - coal
+      - iron ingots
 
 4. **Timeframe**:
-   - The realm will be accessible daily from **8:00 PM to 12:00 AM** only.
+   - The realm will be accessible Monday through Thrusday from **8:00 PM to 11:59 PM** and Friday **8:00 PM** through Sunday **11:59PM** 
 
 ## Scavenger Hunt Items
 ### Ranked Items with Point Values
@@ -28,19 +36,19 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
 | 1        | **Diamond Block**               | Easy           | 5               |
 | 2        | **Cake**                        | Easy           | 5               |
 | 3        | **Honey Block (x5)**            | Easy           | 5               |
-| 4        | **Potion of Slow Falling**      | Moderate       | 7               |
+| 4        | **Potion of Fire Res**          | Moderate       | 7               |
 | 5        | **Wither Skeleton Skull**       | Moderate       | 8               |
 | 6        | **Totem of Undying**            | Moderate       | 8               |
 | 7        | **Stack of Ender Pearls (16)**  | Moderate       | 7               |
 | 8        | **Shulker Shells (x10)**        | Moderate       | 8               |
-| 9        | **Beacon**                      | Hard           | 10              |
+| 9        | **Chest of Potions (sf/ih)**    | Hard           | 10              |
 | 10       | **Netherite Ingot**             | Hard           | 10              |
 | 11       | **Fully Enchanted Diamond Armor Set** | Hard       | 12              |
 | 12       | **Conduit**                     | Hard           | 12              |
 | 13       | **Trident**                     | Hard           | 12              |
 | 14       | **Enchanted Golden Apple**      | Hard           | 12              |
 | 15       | **Map with Marked Coordinates** | Variable       | 10              |
-| 16       | **Ender Dragon Egg**            | Very Hard      | 15              |
+| 16       | **Beacon**                      | Very Hard      | 15              |
 | 17       | **Elytra**                      | Very Hard      | 15              |
 | 18       | **Dragon Head**                 | Very Hard      | 15              |
 | 19       | **Pigstep Music Disc**          | Very Hard      | 15              |
@@ -54,7 +62,7 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
 
 ## Example Winning Combinations
 1. **Exploration & Combat**:
-   - Elytra (15), Pigstep Music Disc (15), Wither Skeleton Skull (8), Potion of Slow Falling (7), Cake (5).
+   - Elytra (15), Pigstep Music Disc (15), Wither Skeleton Skull (8), Potion of Fire Res (7), Cake (5).
    **Total**: 50 points.
 
 2. **Resource Collector**:
@@ -62,7 +70,7 @@ Teams must collect items to reach a total of **50 points**. Items can be mixed a
    **Total**: 49 points (bonus with extra).
 
 3. **Easy Path**:
-   - Cake (5), Diamond Block (5), Honey Block (5), Potion of Slow Falling (7), Wither Skeleton Skull (8), Shulker Shells (8), Totem of Undying (8).
+   - Cake (5), Diamond Block (5), Honey Block (5), Potion of Fire Res (7), Wither Skeleton Skull (8), Shulker Shells (8), Totem of Undying (8).
    **Total**: 51 points.
 
 ## Additional Rules and Guidelines
