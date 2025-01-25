@@ -2,6 +2,8 @@
 
 Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a survival-mode Minecraft world with a randomly generated seed.
 
+Seed: `-1588150500844156761`
+
 ## General Rules
 1. **Teams**:
    - Teams must consist of **exactly 2 players**.
