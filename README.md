@@ -4,6 +4,8 @@ Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a tot
 
 Seed: `-1588150500844156761`
 
+Spawn Point: `x: 224, z: -688`
+
 ## General Rules
 1. **Teams**:
    - Teams must consist of **exactly 2 players**.
