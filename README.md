@@ -4,9 +4,13 @@ Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a tot
 
 Discord Server Invite Link: https://discord.gg/jfdkxruX
 
-Seed: `-1588150500844156761`
-
+Seed: 		 `-1588150500844156761`
 Spawn Point: `x: 224, z: -688`
+
+Teams
+ - Green:  `bigheezzy531`   and `rebelcauz531`
+ - Blue:   `flutterfly3112` and `damedolla6409`
+ - Orange: `lilmexxicann`   and `devindavis1`
 
 ## General Rules
 1. **Teams**:
