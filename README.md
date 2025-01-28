@@ -2,6 +2,8 @@
 
 Welcome to Minecraft ScavHunting! Teams will compete to gather items worth a total of **50 points** in a survival-mode Minecraft world with a randomly generated seed.
 
+Discord Server Invite Link: https://discord.gg/jfdkxruX
+
 Seed: `-1588150500844156761`
 
 Spawn Point: `x: 224, z: -688`
